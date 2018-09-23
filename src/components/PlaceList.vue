@@ -19,7 +19,7 @@ import Map from './Map'
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: 'http://road.jellyms.kr/api/',
+  baseURL: 'https://road.jellyms.kr/api/',
   headers: {
     'Content-Type': 'application/json'
   }

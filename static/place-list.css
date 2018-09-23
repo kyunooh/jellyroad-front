@@ -1,0 +1,10 @@
+.place-menu > ul {
+  list-style: none;
+  padding-inline-start: 0;
+  max-width: 50vw;
+  word-break: break-all;
+}
+
+.place-menu > ul > li {
+  display: block;
+}
